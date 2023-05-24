@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>disable</Nullable>
+		<ImplicitUsings>disable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.14" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\EcommerceDosGuri.Application.UseCase\EcommerceDosGuri.Application.UseCase.csproj" />
+	  <ProjectReference Include="..\EcommerceDosGuri.InfrastructureAdapter.Out.AccessData\EcommerceDosGuri.InfrastructureAdapter.Out.AccessData.csproj" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\bin\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.deps.json
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\bin\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.dll
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\bin\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.pdb
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\obj\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\obj\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\obj\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\obj\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.AssemblyInfo.cs
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\obj\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\obj\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.dll
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\obj\Debug\net6.0\refint\EcommerceDosGuri.Application.DomainModel.dll
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\obj\Debug\net6.0\EcommerceDosGuri.Application.DomainModel.pdb
+C:\Users\DTI Digital\Documents\Projetos\EcommerceDosGuri\EcommerceDosGuri.Application.DomainModel\obj\Debug\net6.0\ref\EcommerceDosGuri.Application.DomainModel.dll

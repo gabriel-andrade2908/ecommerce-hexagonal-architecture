@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oiSrGgJMlTOLiT2KycNXjg45e3uocwxIRyfZRxRuDo57ZACo3+dT/+aRjzQ60owS3bjQwpBpQUktyX2gMWE2vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\Documents\\Projetos\\.net core\\Arquitetura hexagonal - Ecommerce\\EcommerceDosGuri.Application.DomainModel\\EcommerceDosGuri.Application.DomainModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
